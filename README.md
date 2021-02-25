@@ -1,7 +1,9 @@
 # My MacOS dev setup
+No links are provided since most of the software to download is a search-engine-query away.
 ## Firefox
 - Set as default browser
 - Login in Firefox sync (now with containers)
+- Set DuckDuckGo as default search engine (looks like Firefox conveniently forgets this setting)
 - Unlock Bitwarden key wallet
 ## System
 - Show battery percentage on menu
