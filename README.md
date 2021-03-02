@@ -54,5 +54,5 @@ $ touch ~/.zshrc
 Then add `eval "$(nodenv init -)"` to `.zshrc` file.
 
 ## Font
+- Google FiraCode *
 - JetBrains Mono
-- Google FiraCode
