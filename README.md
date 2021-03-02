@@ -11,8 +11,11 @@ No links are provided since most of the software to download is a search-engine-
 - Mouse: uncheck "Natural scroll"
 - Shortcuts
     - Remove command+arrow to move through spaces
-    - **TODO** Add command to cycle through application windows
-- Install Flycut for multiple clipboards
+    - Add command to cycle through application windows (Settings / Keyboard / Shortcuts / Keyboard / Show the next window): `⌘ \`
+- Install Flycut for multiple clipboards; preferences:
+    - General: Launch Flycut on login
+    - Appearance: Menu item icon: Black scissors
+
 ## Brew
 Install the Brew package manager
 
