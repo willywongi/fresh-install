@@ -17,9 +17,18 @@ No links are provided since most of the software to download is a search-engine-
 Install the Brew package manager
 
 ## Python
-`brew install python3`
 
-`pip3 install --user pipenv`
+```bash
+$ brew install python3
+```
+
+```bash
+$ pip3 install --user pipenv
+```
+This is a user installation. If `pipenv` isn’t available in your shell after installation, you’ll need to add the user base’s binary directory to your `PATH`.
+1. Get the *base* path from: `python3 -m site --user-base`
+2. Open the shell profile file in an editor: `vi ~/.zshrc`
+3. Add the path to `PATH`: `export PATH=$PATH:<the base path from before>/bin`. Notice we added `/bin` at the end.
 
 ## Other apps
 - Fork (Git)
