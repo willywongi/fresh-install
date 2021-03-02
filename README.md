@@ -41,7 +41,7 @@ This is a user installation. If `pipenv` isn’t available in your shell after i
 - Vetur
 
 ## Setup SSH keys
-**TODO**
+Fork did that for me. I then copy/pasted the public key in my Github profile.
 
 ## Node
 LTS Version: 14 (until Oct21). Installed with `nodenv`:
