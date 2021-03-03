@@ -37,6 +37,8 @@ This is a user installation. If `pipenv` isn’t available in your shell after i
 - Fork (Git)
 - VSCode
 - Sketch
+- Docker Desktop Community Edition:
+    - I used to have an hard time figuring out the [download page](https://hub.docker.com/editions/community/docker-ce-desktop-mac/).
 
 ## VSCode extensions
 - Python
