@@ -40,6 +40,8 @@ This is a user installation. If `pipenv` isn’t available in your shell after i
 
 ## VSCode extensions
 - Python
+    - Change language server to Pylance (follow instructions)
+    - no need for a linter now.
 - DotENV
 - Vetur
 
