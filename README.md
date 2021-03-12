@@ -46,6 +46,7 @@ This is a user installation. If `pipenv` isn’t available in your shell after i
     - no need for a linter now.
 - DotENV
 - Vetur
+- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
 
 ## Setup SSH keys
 Fork did that for me. I then copy/pasted the public key in my Github profile.
